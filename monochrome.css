@@ -3,7 +3,7 @@
 :root {
     --theme-background-image: url(https://raw.githubusercontent.com/Alliline/TouhouMinecraft/master/ahegao-vsthemes_org.jpg);
     --home-icon-image: url(https://files.catbox.moe/l6hi8p.jpg);
-    --main-theme-color: rgb(67, 181, 129);
+    --main-theme-color: rgb(255, 255, 255);
     --theme-transparency: rgba(0, 0, 0, 0.8);
     --home-icon-image-position: right center;
     --home-icon-image-zoom: 170%;
