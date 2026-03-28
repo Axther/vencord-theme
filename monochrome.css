@@ -73,10 +73,18 @@
 [class*="mentioned"]:hover {
     background-color: rgba(86, 86, 86, 0.08) !important;
 }
-[class[class*="pill"] {
+
+[class*="pill"] {
     animation: none !important;
 }
 
 [class*="pill"] span {
+    width: 3px !important;
+    border-radius: 2px !important;
     background-color: white !important;
+}
+
+[class*="pill"] [class*="item"] {
+    background: none !important;
+    border: none !important;
 }
