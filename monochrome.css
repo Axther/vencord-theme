@@ -80,9 +80,9 @@
 
 [class*="pill"] span {
     display: block !important;
-    width: 8px !important;
-    height: 8px !important;
-    margin-left: 8px !important;
-    border-radius: 8px !important;
+    width: 3px !important;
+    height: 20px !important;
+    margin-left: 2px !important;
+    border-radius: 4px !important;
     background-color: white !important;
 }
