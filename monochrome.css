@@ -78,11 +78,10 @@
     animation: none !important;
 }
 
-[class*="pill"] span {
+[class*="pill"] span[class] {
     display: block !important;
-    width: 3px !important;
-    height: 20px !important;
-    margin-left: 2px !important;
-    border-radius: 4px !important;
+    width: 4px !important;
+    height: 8px !important;
     background-color: white !important;
+    border-radius: 4px !important;
 }
