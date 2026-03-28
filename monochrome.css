@@ -79,12 +79,10 @@
 }
 
 [class*="pill"] span {
-    width: 7px !important;
-    border-radius: 5px !important;
+    display: block !important;
+    width: 4px !important;
+    height: 8px !important;
+    margin-left: 2px !important;
+    border-radius: 4px !important;
     background-color: white !important;
-}
-
-[class*="pill"] [class*="item"] {
-    background: none !important;
-    border: none !important;
 }
