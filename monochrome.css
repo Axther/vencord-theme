@@ -79,5 +79,7 @@
 }
 
 [class*="pill"] span {
-    all: unset !important;
+    background: var(--brand-experiment) !important;
+    width: 4px !important;
+    border-radius: 4px !important;
 }
