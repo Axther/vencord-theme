@@ -10,8 +10,8 @@
     --server-listing-width: 64px;
     --font-size: 100%;
     --mention-color: rgba(250, 166, 26, 0.05);
-    --mention-sider: rgba(250, 166, 26, 1);
-    --mention-hover-color: rgba(250, 166, 26, 0.08);
+    --mention-sider: rgba(86, 86, 86, 1);
+    --mention-hover-color: rgba(86, 86, 86, 0.08);
     --category-hover-color: rgb(60, 202, 138);
     --unread-server-animation: rainbow;
     --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
