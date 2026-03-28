@@ -80,7 +80,7 @@
 
 [class*="pill"] span {
     width: 5px !important;
-    border-radius: 2px !important;
+    border-radius: 3px !important;
     background-color: white !important;
 }
 
