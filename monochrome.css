@@ -14,7 +14,7 @@
     --mention-sider: rgba(86, 86, 86, 1);
     --mention-hover-color: rgba(86, 86, 86, 0.08);
     --category-hover-color: rgb(60, 202, 138);
-    --unread-server-animation: rainbow;
+    --unread-server-animation: none;
     --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
     --video-screen-button-foreground-color: white;
     --video-screen-button-background-hover-color: rgba(200, 200, 200, 0.4);
@@ -72,4 +72,12 @@
 
 [class*="mentioned"]:hover {
     background-color: rgba(86, 86, 86, 0.08) !important;
+}
+[class*="pill"] {
+    animation: none !important;
+}
+
+[class*="pill"] [class*="item"] {
+    background-color: white !important;
+    border-color: white !important;
 }
