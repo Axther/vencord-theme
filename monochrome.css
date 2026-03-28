@@ -73,11 +73,10 @@
 [class*="mentioned"]:hover {
     background-color: rgba(86, 86, 86, 0.08) !important;
 }
-[class*="pill"] {
+[class[class*="pill"] {
     animation: none !important;
 }
 
-[class*="pill"] [class*="item"] {
+[class*="pill"] span {
     background-color: white !important;
-    border-color: white !important;
 }
