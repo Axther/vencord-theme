@@ -73,13 +73,3 @@
 [class*="mentioned"]:hover {
     background-color: rgba(86, 86, 86, 0.08) !important;
 }
-
-[class*="pill"] {
-    animation: none !important;
-}
-
-[class*="pill"] span {
-    background: var(--brand-experiment) !important;
-    width: 4px !important;
-    border-radius: 4px !important;
-}
