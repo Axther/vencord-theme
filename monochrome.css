@@ -79,7 +79,7 @@
 }
 
 [class*="pill"] span {
-    width: 3px !important;
+    width: 5px !important;
     border-radius: 2px !important;
     background-color: white !important;
 }
